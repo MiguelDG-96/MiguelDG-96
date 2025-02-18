@@ -1,10 +1,10 @@
-# 👋 ¡Hola! Soy [Miguel Dolic] 
+# 👋 ¡Hola! Soy **Miguel Dolic** 
 ### 🚀 Desarrollador Web | Flutter | Laravel | Mysql
 
 - 💻 Me encanta programar y aprender nuevas tecnologías.
-- 📌 Actualmente estoy trabajando en **AlquilaYa.pe**.
+- 📌 Actualmente estoy estudiando Ing Sistemas e Informática en la **UNSM**.
 - 📊 Interesado en **SQL y PostgreSQL** para análisis de datos.
-- 📫 Puedes contactarme en: [mdolicg@gmail.com]
+- 📫 Puedes contactarme en: **mdolicg@gmail.com**
 
 ---
 
