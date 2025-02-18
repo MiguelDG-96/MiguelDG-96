@@ -13,7 +13,7 @@
 - **Frontend:** Flutter, TailwindCSS
 - **Lenguajes:** Html, Css, JavaScript, Ts
 
-| Frontend | Frameworks | Lenguajes |
+| Frontend | Backend | Lenguajes |
 |----------|-------|-------|
 |[![My Skills](https://skillicons.dev/icons?i=react,flutter,tailwindcss)](https://skillicons.dev)|![My Skills](https://skillicons.dev/icons?i=laravel,postgres&perline=3)|[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php)](https://skillicons.dev)|
  
