@@ -25,7 +25,7 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelDG-96&show_icons=true&theme=tokyonight&locale=es" width="48%"/>
  </a>
  <a href="https://github.com/MiguelDG-96/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelDG-96&layout=compact&theme=tokyonight&locale=es" width="40%"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelDG-96&layout=compact&theme=tokyonight&locale=es" width="38%"/>
  </a>
 
 
