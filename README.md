@@ -20,6 +20,11 @@
 
 ---
 ### 💻 Estadísticas del perfil de GitHub
-![Miguel Dolic GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelDG-96&show_icons=true&theme=tokyonight&locale=es)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelDG-96&layout=compact&theme=tokyonight&locale=es)](https://github.com/MiguelDG-96/github-readme-stats)
+<a href="https://github.com/MiguelDG-96/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelDG-96&show_icons=true&theme=tokyonight&locale=es"/>
+</a>
+<a href="https://github.com/MiguelDG-96/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelDG-96&layout=compact&theme=tokyonight&locale=es"/>
+</a>
+
