@@ -13,7 +13,7 @@
 - **Frontend:** Flutter, JavaScript, TailwindCSS
 - **Herramientas:** Docker, cPanel, GitHub Actions
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelDG-96)](https://github.com/MiguelDG-96/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelDG-96&layout=compact&theme=onedark)](https://github.com/MiguelDG-96/github-readme-stats)
 
 ---
 ### 💻 Estadísticas del perfil de GitHub
