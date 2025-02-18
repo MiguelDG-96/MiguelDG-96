@@ -9,13 +9,13 @@
 ---
 
 ### 🛠️ Tecnologías que uso:
-- **Backend:** Laravel, PHP, PostgreSQL
-- **Frontend:** Flutter, JavaScript, TailwindCSS
-- **Herramientas:** Docker, cPanel, GitHub Actions
+- **Backend:** Laravel, PostgreSQL
+- **Frontend:** Flutter, TailwindCSS
+- **Lenguajes:** Html, Css, JavaScript, Ts
 
 | Frontend | Frameworks | Lenguajes |
 |----------|-------|-------|
-|[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)|![My Skills](https://skillicons.dev/icons?i=react,laravel,flutter&perline=3)|[![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)|
+|[![My Skills](https://skillicons.dev/icons?i=react,flutter,tailwindcss)](https://skillicons.dev)|![My Skills](https://skillicons.dev/icons?i=laravel,postgressql&perline=3)|[![My Skills](https://skillicons.dev/icons?i=html5,css,js,ts,php)](https://skillicons.dev)|
  
 
 ---
