@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Miguel Dolic] 
+### 🚀 Desarrollador Web | Flutter | Laravel | Mysql
 
-<!--
-**MiguelDG-96/MiguelDG-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Me encanta programar y aprender nuevas tecnologías.
+- 📌 Actualmente estoy trabajando en **AlquilaYa.pe**.
+- 📊 Interesado en **SQL y PostgreSQL** para análisis de datos.
+- 📫 Puedes contactarme en: [mdolicg@gmail.com]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías que uso:
+- **Backend:** Laravel, PHP, PostgreSQL
+- **Frontend:** Flutter, JavaScript, TailwindCSS
+- **Herramientas:** Docker, cPanel, GitHub Actions
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelDG-96)](https://github.com/MiguelDG-96/github-readme-stats)
+
+---
+### 💻 Estadísticas del perfil de GitHub
+![Miguel Dolic GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelDG-96&show_icons=true&theme=onedark)
+
