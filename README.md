@@ -13,9 +13,9 @@
 - **Frontend:** Flutter, JavaScript, TailwindCSS
 - **Herramientas:** Docker, cPanel, GitHub Actions
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelDG-96&layout=compact&theme=onedark)](https://github.com/MiguelDG-96/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelDG-96&layout=compact&theme=tokyonight)](https://github.com/MiguelDG-96/github-readme-stats)
 
 ---
 ### 💻 Estadísticas del perfil de GitHub
-![Miguel Dolic GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelDG-96&show_icons=true&theme=onedark)
+![Miguel Dolic GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelDG-96&show_icons=true&theme=tokyonight)
 
