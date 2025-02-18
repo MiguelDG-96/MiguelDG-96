@@ -15,7 +15,7 @@
 
 | Frontend | Frameworks | Lenguajes |
 |----------|-------|-------|
-|[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=react,laravel,flutter&perline=3)]|[![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)|
+|[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)|![My Skills](https://skillicons.dev/icons?i=react,laravel,flutter&perline=3)|[![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)|
  
 
 ---
